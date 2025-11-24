@@ -26,6 +26,9 @@ html,body {
 .opacity,.hover-opacity:hover {
     opacity: 0.60;
 }
+.hover-opacity{
+    text-decoration: none;
+}
 
 /*NAVBAR*/
 .bar .bar-item {
@@ -406,6 +409,4 @@ a {
 .text-white,.hover-text-white:hover {
     color: #fff!important;
 }
-
-
 
