@@ -3,6 +3,13 @@ YEARBOOK 연감 is a digital yearbook celebrating our class memories, friendship
 
 ---
 
+## Members 팀원
+Nguyen Khanh Ha
+Le Thanh Bao Ngoc
+Phan Khanh Van
+
+---
+
 ## Overview 개요
 
 The Yearbook web project is a personal, front-end focused project that captures the spirit of a school year in a clean, interactive, and user-friendly website.  
