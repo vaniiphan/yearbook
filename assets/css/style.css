@@ -251,10 +251,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 /*IMAGE & LINKS*/
-.image {
-    max-width: 100%;
-    height: auto;
-}
+
 
 img {
     vertical-align: middle;
